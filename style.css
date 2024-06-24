@@ -367,7 +367,11 @@ article{
 .mail{
     height: 2.57rem;
 }
-
+.ho a:hover{
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
 
 /* FOOTER SECTION  */
 footer{
