@@ -38,6 +38,7 @@ nav{
     height: 17vh;
     justify-content: space-around;
     align-items: center;
+    background-color: rgb(53, 28, 80);
 }
 .nav-links{
     list-style: none;
@@ -380,4 +381,8 @@ footer{
 }
 footer p{
     text-align: center;
+}
+
+nav a{
+    color: white;
 }
